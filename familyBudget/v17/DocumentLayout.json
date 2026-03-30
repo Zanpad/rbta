@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\addexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\addexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\multiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\multiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\addincome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\addincome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|c:\\users\\lobanov_d\\source\\repos\\familybudget\\familybudget\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7688C-6EFF-4B48-BFB9-F8DACD854572}|familyBudget\\familyBudget.csproj|solutionrelative:familybudget\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Form1.cs",
+              "RelativeDocumentMoniker": "familyBudget\\Form1.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "familyBudget\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:29:40.323Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Form1.cs",
+              "RelativeDocumentMoniker": "familyBudget\\Form1.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Form1.cs",
+              "RelativeToolTip": "familyBudget\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvz8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:35:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Income.cs",
+              "RelativeDocumentMoniker": "familyBudget\\Income.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Income.cs",
+              "RelativeToolTip": "familyBudget\\Income.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:21:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddIncome.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddIncome.cs",
+              "RelativeDocumentMoniker": "familyBudget\\AddIncome.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddIncome.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "familyBudget\\AddIncome.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:06:32.645Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Person.cs",
+              "RelativeDocumentMoniker": "familyBudget\\Person.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Person.cs",
+              "RelativeToolTip": "familyBudget\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:12:34.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddOrEditForm.cs",
+              "RelativeDocumentMoniker": "familyBudget\\AddOrEditForm.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddOrEditForm.cs",
+              "RelativeToolTip": "familyBudget\\AddOrEditForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:07:12.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddOrEditForm.cs",
+              "RelativeDocumentMoniker": "familyBudget\\AddOrEditForm.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddOrEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "familyBudget\\AddOrEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:46:55.46Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Expense.cs",
+              "RelativeDocumentMoniker": "familyBudget\\Expense.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\Expense.cs",
+              "RelativeToolTip": "familyBudget\\Expense.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBywA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:15:58.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiClass.cs",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\MultiClass.cs",
+              "RelativeDocumentMoniker": "familyBudget\\MultiClass.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\MultiClass.cs",
+              "RelativeToolTip": "familyBudget\\MultiClass.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:26:19.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddExpense.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddExpense.cs",
+              "RelativeDocumentMoniker": "familyBudget\\AddExpense.cs",
+              "ToolTip": "C:\\Users\\lobanov_d\\source\\repos\\familyBudget\\familyBudget\\AddExpense.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "familyBudget\\AddExpense.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:59:30.308Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
